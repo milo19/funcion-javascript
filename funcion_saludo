@@ -1,0 +1,20 @@
+<html>
+<head>
+	<title> Practica Javascript </title>
+	
+
+	<script type="text/javascript">
+	function saludar()
+	{
+		alert("Bienvenidos a mi practica javascript")
+	}
+	</script>
+</head>
+
+	<body>
+		<input type="button" value="Saludar onClick="saludar();">
+	</body>
+
+
+
+</html>
